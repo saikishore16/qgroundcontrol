@@ -83,6 +83,11 @@ Rectangle {
             onClicked:          _activeVehicle.closeVehicle()
             visible:            _activeVehicle && _communicationLost && currentToolbar === flyViewToolbar
         }
+        
+         QGCButton {
+            text:               qsTr("LogOut")
+            onClicked:          mainWindow.close()
+        }
     }
 
     QGCFlickable {
