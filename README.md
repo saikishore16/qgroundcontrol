@@ -1,3 +1,11 @@
+# Vyorius-task
+Tasks: <br>
+1) Change Logo of application with our provided logo <br>
+2) Change build name from “QGroundControl daily” to “Vyorius Ground Station” (Located on Top left corner) <br>
+3) Add Button on right Corner in Application in title bar name it as “Logout”.
+
+
+
 # QGroundControl Ground Control Station
 
 [![Releases](https://img.shields.io/github/release/mavlink/QGroundControl.svg)](https://github.com/mavlink/QGroundControl/releases)
